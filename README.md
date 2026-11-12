@@ -1,5 +1,5 @@
 # 🛡️ ByteBarrier – Multilingual Scam Message Checker
-
+**Live demo:** [https://bytebarrier-scamcheck.streamlit.app](https://bytebarrier-scamcheck.streamlit.app)
 ByteBarrier helps protect senior citizens from phone and message fraud. It checks a typed or pasted message in **English, Tamil and Tanglish**, shows a **0–100 risk score**, explains *why* it was flagged, gives advice in Tamil, English or Hindi, and offers a one-tap **call / WhatsApp link to a trusted person**.
 
 ## How it works
